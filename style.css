@@ -1,0 +1,27 @@
+div {
+    background-color:rgb(0, 0, 0);
+}
+#firstDiv { 
+    background-color:yellow;
+}
+.redElements {
+    background-color:red;
+}
+.tallElements {
+    height:200px
+    
+
+}
+.squadElement { 
+    width:200px;
+    height: 200px;
+    background-color:purple; 
+
+}
+#sizechild{ 
+    width: 20%;
+    max-width: 200px;
+background: blue;
+}
+
+/* #firstDiv, .redelements,  */

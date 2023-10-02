@@ -1,0 +1,41 @@
+<html> 
+    <head> 
+        <h1 style="color:pink;">   Registration </h1>
+</head>
+
+<body> 
+<div class="div1" style="color:pink;"> 
+    <p> Fill in the blanks to register </p>
+    </div>
+    <form> 
+  <input type="text" name="username"> 
+<input type="text" name="username" placeholder="enter username"> 
+ 
+<input type="number" > 
+<select> 
+    <option1> option1 </option1>
+    <option> option2 </option>
+    <option> option3 </option>
+    <option> option4 </option>
+    <option> option5 </option>
+    </select>
+     
+
+    <input type="button"> 
+    <input type="date"> 
+    <input type="checkbox"> 
+    1 <input type="radio" name="chooser" required > 
+    2 <input type="radio" name="chooser"> 
+
+
+
+</body>
+
+
+
+
+
+
+
+
+        
